@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>CProgressBar.qml</file>
+        <file>WaterProgress.qml</file>
+    </qresource>
+    <qresource prefix="/img"/>
+</RCC>
